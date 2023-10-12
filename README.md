@@ -29,7 +29,7 @@ The output file is automatically saved in the root directory with the format `Re
 ![Amazon check snap1](https://github.com/agentfoxbeta/amazon_checker/blob/main/snap1.png)
 ![Amazon check snap2](https://github.com/agentfoxbeta/amazon_checker/blob/main/snap2.png) 
 ![Amazon check snap3](https://github.com/agentfoxbeta/amazon_checker/blob/main/snap3.png)
-the software itself can be obtained by visiting the  **Telegram channel** :
+the software download itself can be obtained by visiting the  **Telegram channel** :
 
 Telegram ID: **@Agentfox_beta**
 Telegram Channel: [`https://t.me/agent_fox_team`](https://t.me/agent_fox_team)
@@ -62,7 +62,7 @@ Telegram Channel: [`https://t.me/agent_fox_team`](https://t.me/agent_fox_team)
 ![Amazon check snap2](https://github.com/agentfoxbeta/amazon_checker/blob/main/snap2.png) 
 ![Amazon check snap3](https://github.com/agentfoxbeta/amazon_checker/blob/main/snap3.png)
 
-具体演示效果以及软件请**进入频道获取**:
+具体演示效果以及软件下载请**进入频道获取**:
 
 Telegram id **@Agentfox_beta**
 TG频道 **https://t.me/agent_fox_team**
