@@ -1,4 +1,4 @@
-# Amazon_checker 2014/亚马逊账户验证工具包/亚马逊测活2014
+# Amazon_checker 2014/亚马逊测活2014/亚马逊账户验证工具包
 
 ## ENGLISH
 
